@@ -8,7 +8,7 @@ API_HASH = environ.get("API_HASH", "2d81a0d94f0d111339c455a85f60e5c8")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 # Owner ID For Broadcasting 
-OWNER_ID = int(environ.get("OWNER_ID", "")) # Owner Id or Admin Id
+OWNER_ID = int(environ.get("OWNER_ID", "1715252294")) # Owner Id or Admin Id
 
 # Give Your Force Subscribe Channel Id Below And Make Bot Admin With Full Right.
 F_SUB = environ.get("F_SUB", "")
